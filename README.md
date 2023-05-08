@@ -8,7 +8,7 @@
 [![Github followers](https://img.shields.io/github/followers/Pratap-Reddy-K.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pratap-Reddy-K?tab=followers)
 
 I'm Pratap Reddy K!
-- <i>Currently: </i>  I’m a under graduate student at Dr. AIT . With my background in BE - Electronics and Communication Engineering and <strong>My Skills</strong> are -</br>
+- <i>Currently: </i>  I’m a under graduate student at Dr. AIT . With my background in BE - Electronics and Communication Engineering and <strong>My Skills</strong> are -</br> Verilog HDL, Assembly Language, C++ 
 
 
 - <i>Previously: </i> I was recently'21 completed my Diploma from Govt Polytechnic College, Raichur with a Diploma in Electronics and Communication Engineering.
